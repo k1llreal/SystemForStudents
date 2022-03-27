@@ -1,0 +1,15 @@
+>>>Students<<<
+Rooby Raden
+Ivan Ivanov
+Kirill Golovan
+Jack Daniels
+Jojo Jojos
+>>>Teachers<<<
+Khabib Nurmagomedov
+Canelo Alvarez
+Conor Mcgregor
+>>>Subjects and marks<<<
+Math : Conor Mcgregor : Khabib Nurmagomedov : Rooby Raden=10 : Ivan Ivanov=20 : Kirill Golovan=30 : Jack Daniels=40 : Jojo Jojos=50 : 
+Chemistry : Canelo Alvarez : Khabib Nurmagomedov : 0
+History : Khabib Nurmagomedov : Conor Mcgregor : 0
+Physic : Khabib Nurmagomedov : Canelo Alvarez : 0
